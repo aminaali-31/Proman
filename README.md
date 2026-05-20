@@ -1,6 +1,6 @@
 # ProMan - Project Management Application
 
-A comprehensive Flutter-based project management application designed to streamline project tracking, task management, client relationships, and revenue monitoring. ProMan empowers teams to collaborate efficiently and stay on top of project deadlines.
+A comprehensive Flutter-based project management application designed to streamline project tracking, task management, client relationships, and revenue monitoring.
 
 ## 🎯 Overview
 
