@@ -16,25 +16,26 @@ ProApp is a full-featured project management solution built with Flutter, featur
 - **Team Collaboration**: Assign tasks to employees and manage team workload
 - **Real-time Updates**: Live data synchronization with backend server
 
+
 ## 📸 App Screenshots
 
 ### Startup Screen
-![Startup](images/start.png)
+<img src="images/start.png" alt="Startup" width="300"/>
 
 ### Login Screen
-![Login](images/login.png)
+<img src="images/login.png" alt="Login" width="300"/>
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+<img src="images/dashboard.png" alt="Dashboard" width="300"/>
 
 ### Projects View
-![Projects](images/projects.png)
+<img src="images/projects.png" alt="Projects" width="300"/>
 
 ### Project Details
-![Project Detail](images/pro_detail.png)
+<img src="images/pro_detail.png" alt="Project Detail" width="300"/>
 
 ### Tasks Management
-![Tasks](images/tasks.png)
+<img src="images/tasks.png" alt="Tasks" width="300"/>
 
 
 ## 🏗️ Architecture & Project Structure
