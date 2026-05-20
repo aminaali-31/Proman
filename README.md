@@ -20,22 +20,22 @@ ProApp is a full-featured project management solution built with Flutter, featur
 ## 📸 App Screenshots
 
 ### Startup Screen
-<img src="images/start.png" alt="Startup" width="300"/>
+<img src="images/start.png" alt="Startup" width="250"/>
 
 ### Login Screen
-<img src="images/login.png" alt="Login" width="300"/>
+<img src="images/login.png" alt="Login" width="250"/>
 
 ### Dashboard
-<img src="images/dashboard.png" alt="Dashboard" width="300"/>
+<img src="images/dashboard.png" alt="Dashboard" width="250"/>
 
 ### Projects View
-<img src="images/projects.png" alt="Projects" width="300"/>
+<img src="images/projects.png" alt="Projects" width="250"/>
 
 ### Project Details
-<img src="images/pro_detail.png" alt="Project Detail" width="300"/>
+<img src="images/pro_detail.png" alt="Project Detail" width="250"/>
 
 ### Tasks Management
-<img src="images/tasks.png" alt="Tasks" width="300"/>
+<img src="images/tasks.png" alt="Tasks" width="250"/>
 
 
 ## 🏗️ Architecture & Project Structure
