@@ -1,10 +1,10 @@
-# ProApp - Project Management Application
+# ProMan - Project Management Application
 
-A comprehensive Flutter-based project management application designed to streamline project tracking, task management, client relationships, and revenue monitoring. ProApp empowers teams to collaborate efficiently and stay on top of project deadlines.
+A comprehensive Flutter-based project management application designed to streamline project tracking, task management, client relationships, and revenue monitoring. ProMan empowers teams to collaborate efficiently and stay on top of project deadlines.
 
 ## 🎯 Overview
 
-ProApp is a full-featured project management solution built with Flutter, featuring real-time synchronization with a Node.js backend and SQL Server database. Whether you're managing multiple projects or tracking team productivity, ProApp provides the tools you need.
+ProMan is a full-featured project management solution built with Flutter, featuring real-time synchronization with a Node.js backend and SQL Server database. Whether you're managing multiple projects or tracking team productivity, ProMan provides the tools you need.
 
 ## ✨ Key Features
 
